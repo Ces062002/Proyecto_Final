@@ -5,7 +5,7 @@ Proyecto final formulación y evaluación de proyectos de detallar de que se tra
 ![Micmac](https://img.shields.io/badge/MICMAC-01-blue)
 
 <figure style="text-align: center;">
-  <img src="imagenes/CalculadoraIMG.png" alt="Calculadora" width="308" height="647" />
+  <img src="https://github.com/Ces062002/Proyecto_Final/commits?author=Ces062002" alt="PERRO" width="308" height="647" />
   <figcaption><strong>Calculadora</strong></figcaption>
 </figure>
 
